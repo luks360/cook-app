@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> CookApp </h1>
 
 <p align="center">
 Projeto desenvolvido durante o evento React Native na prática e apresentado pelo <a href="https://www.youtube.com/@orodrigogo" >Rodrigo Gonçalves</a>, educador da <a href="https://www.rocketseat.com.br">Rocketseat</a>.
